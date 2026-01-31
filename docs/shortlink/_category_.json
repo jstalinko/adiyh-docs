@@ -1,0 +1,8 @@
+{
+    "label": "Shortlink",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "A document for Shortlink"
+    }
+}
