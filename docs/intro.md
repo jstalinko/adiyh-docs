@@ -6,7 +6,7 @@ slug: /intro
 
 # ADIYH Documentation
 
-Welcome to the **ADIYH (Adsense In Your Hand)** documentation. Here you will find comprehensive guides to help you maximize your revenue using our plugin.
+Welcome to the **ADIYH (Ad Income In Your Hand)** documentation. Here you will find comprehensive guides to help you maximize your revenue using our plugin.
 
 ## 📚 Documentation Index
 
